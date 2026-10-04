@@ -1,0 +1,6 @@
+PySide6>=6.6,<6.9
+numpy>=1.23
+scipy>=1.10
+sounddevice>=0.4.6
+miniaudio>=1.59
+mutagen>=1.47
